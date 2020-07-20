@@ -6,7 +6,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Jonathan and I'm Tech Lead Data Engineer on Data Discovery Squad
+My name is Jonathan and I'm Data Platform Engineer on Data Discovery Squad
 
  - :snake: Python Enthusiast
  - 🌱 Currently learning Spark
