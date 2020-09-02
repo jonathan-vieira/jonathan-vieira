@@ -6,7 +6,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Jonathan and I'm Data Platform Engineer
+My name is Jonathan and I'm Senior Data Platform Engineer
 
  - :snake: Python Enthusiast
  - 🌱 Currently learning Spark
