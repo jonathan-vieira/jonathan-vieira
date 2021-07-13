@@ -9,7 +9,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Jonathan and I'm Data Engineering Manager at @escaletech 
+My name is Jonathan and I'm Data Engineering Manager at [@escaletech](https://github.com/escaletech) 
 
  - :snake: Python Enthusiast
  - 🌱 Currently learning Spark
