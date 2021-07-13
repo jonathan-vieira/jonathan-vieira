@@ -9,7 +9,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Jonathan and I'm Senior Data Platform Engineer at 
+My name is Jonathan and I'm Data Engineering Manager at @escaletech 
 
  - :snake: Python Enthusiast
  - 🌱 Currently learning Spark
