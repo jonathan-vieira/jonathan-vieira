@@ -9,7 +9,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Jonathan and I'm Data Reliability Engineer at [@quintoandar](https://github.com/quintoandar) 
+My name is Jonathan and I'm a Data Engineer at [@rain](https://www.rainapp.com/) 
 
  - :snake: Python Enthusiast
- - 🌱 Currently breaking through Trino
+ - 🌱 Currently breaking through Snowflake + Dbt
